@@ -1,0 +1,284 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "fulcrum_id": "315df1c6-2e5f-4837-86ab-a7752b6da31f",
+        "created_at": "2015-09-11 23:51:12 UTC",
+        "updated_at": "2015-10-26 15:32:42 UTC",
+        "created_by": "rharris@brwncald.com",
+        "updated_by": "skilpatrick@brwncald.com",
+        "system_created_at": "2015-09-14 15:03:41 UTC",
+        "system_updated_at": "2015-10-26 15:32:42 UTC",
+        "version": 3,
+        "status": null,
+        "project": null,
+        "assigned_to": null,
+        "latitude": 39.9195235,
+        "longitude": -83.0445635,
+        "manhole_id": "MRD-MH-0130",
+        "gps_altitude": 197.0976959211,
+        "gps_horizontal_accuracy": 6,
+        "gps_vertical_accuracy": null,
+        "gps_speed": null,
+        "gps_course": 23
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0445635,
+          39.9195235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fulcrum_id": "05bcb8a6-0a17-4ae5-a504-3e9fb30619f9",
+        "created_at": "2015-06-16 17:46:03 UTC",
+        "updated_at": "2015-10-28 14:33:48 UTC",
+        "created_by": "mnadas@brwncald.com",
+        "updated_by": "rharris@brwncald.com",
+        "system_created_at": "2015-06-16 17:46:03 UTC",
+        "system_updated_at": "2015-10-28 15:38:15 UTC",
+        "version": 5,
+        "status": "",
+        "project": null,
+        "assigned_to": null,
+        "latitude": 40.0712659912,
+        "longitude": -83.0410680444,
+        "manhole_id": "BBK-MH-0015",
+        "gps_altitude": 0,
+        "gps_horizontal_accuracy": 0,
+        "gps_vertical_accuracy": null,
+        "gps_speed": null,
+        "gps_course": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0410680444,
+          40.0712659912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fulcrum_id": "f479e350-591d-438f-9e69-02a1bbf5b934",
+        "created_at": "2015-09-12 02:08:01 UTC",
+        "updated_at": "2015-10-28 14:37:41 UTC",
+        "created_by": "rharris@brwncald.com",
+        "updated_by": "rharris@brwncald.com",
+        "system_created_at": "2015-09-14 15:03:41 UTC",
+        "system_updated_at": "2015-10-28 15:38:16 UTC",
+        "version": 5,
+        "status": null,
+        "project": null,
+        "assigned_to": null,
+        "latitude": 40.0656299,
+        "longitude": -82.9469786,
+        "manhole_id": "CLE-MH-0110",
+        "gps_altitude": 231.7013885393,
+        "gps_horizontal_accuracy": 6,
+        "gps_vertical_accuracy": null,
+        "gps_speed": null,
+        "gps_course": 96
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.9469786,
+          40.0656299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fulcrum_id": "a9fd3635-5b93-4f84-b549-3eb75d13ce6d",
+        "created_at": "2015-06-16 17:46:03 UTC",
+        "updated_at": "2015-10-28 15:10:04 UTC",
+        "created_by": "mnadas@brwncald.com",
+        "updated_by": "rharris@brwncald.com",
+        "system_created_at": "2015-06-16 17:46:03 UTC",
+        "system_updated_at": "2015-10-28 15:38:17 UTC",
+        "version": 10,
+        "status": "",
+        "project": null,
+        "assigned_to": null,
+        "latitude": 39.9646968741,
+        "longitude": -83.0636308935,
+        "manhole_id": "VAL-MH-0015",
+        "gps_altitude": 0,
+        "gps_horizontal_accuracy": 0,
+        "gps_vertical_accuracy": null,
+        "gps_speed": null,
+        "gps_course": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0636308935,
+          39.9646968741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fulcrum_id": "e3c6d499-43b8-4892-ad0f-a46aa1ccc4ff",
+        "created_at": "2015-06-16 17:46:03 UTC",
+        "updated_at": "2015-10-28 14:12:14 UTC",
+        "created_by": "mnadas@brwncald.com",
+        "updated_by": "rharris@brwncald.com",
+        "system_created_at": "2015-06-16 17:46:03 UTC",
+        "system_updated_at": "2015-10-28 16:01:13 UTC",
+        "version": 10,
+        "status": "",
+        "project": null,
+        "assigned_to": null,
+        "latitude": 39.9193783328,
+        "longitude": -83.0531105636,
+        "manhole_id": "0042S0009",
+        "gps_altitude": 0,
+        "gps_horizontal_accuracy": 0,
+        "gps_vertical_accuracy": null,
+        "gps_speed": null,
+        "gps_course": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0531105636,
+          39.9193783328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fulcrum_id": "28b2ef4f-1405-45e2-bc92-49ed881ea11a",
+        "created_at": "2015-06-16 17:46:03 UTC",
+        "updated_at": "2015-10-28 15:13:55 UTC",
+        "created_by": "mnadas@brwncald.com",
+        "updated_by": "rharris@brwncald.com",
+        "system_created_at": "2015-06-16 17:46:03 UTC",
+        "system_updated_at": "2015-10-28 16:01:14 UTC",
+        "version": 6,
+        "status": "",
+        "project": null,
+        "assigned_to": null,
+        "latitude": 39.9412494886,
+        "longitude": -83.0901714946,
+        "manhole_id": "0115S0223",
+        "gps_altitude": 0,
+        "gps_horizontal_accuracy": 0,
+        "gps_vertical_accuracy": null,
+        "gps_speed": null,
+        "gps_course": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0901714946,
+          39.9412494886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fulcrum_id": "6a10b5f6-dc56-4a7d-acdd-e4f8a0c407ab",
+        "created_at": "2015-06-16 17:46:03 UTC",
+        "updated_at": "2015-10-28 15:30:57 UTC",
+        "created_by": "mnadas@brwncald.com",
+        "updated_by": "rharris@brwncald.com",
+        "system_created_at": "2015-06-16 17:46:03 UTC",
+        "system_updated_at": "2015-10-28 16:01:16 UTC",
+        "version": 10,
+        "status": "",
+        "project": null,
+        "assigned_to": null,
+        "latitude": 39.951726048505,
+        "longitude": -83.096546866,
+        "manhole_id": "BRD-MH-0005",
+        "gps_altitude": 0,
+        "gps_horizontal_accuracy": 0,
+        "gps_vertical_accuracy": null,
+        "gps_speed": null,
+        "gps_course": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.096546866,
+          39.951726048505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fulcrum_id": "98d47208-0687-48fc-8fa1-a98e147bd1dd",
+        "created_at": "2015-06-16 17:46:03 UTC",
+        "updated_at": "2015-10-28 14:58:21 UTC",
+        "created_by": "mnadas@brwncald.com",
+        "updated_by": "rharris@brwncald.com",
+        "system_created_at": "2015-06-16 17:46:03 UTC",
+        "system_updated_at": "2015-10-28 16:01:17 UTC",
+        "version": 8,
+        "status": "",
+        "project": null,
+        "assigned_to": null,
+        "latitude": 39.9257476981,
+        "longitude": -83.0577331499,
+        "manhole_id": "BRG-MH-0010",
+        "gps_altitude": 0,
+        "gps_horizontal_accuracy": 0,
+        "gps_vertical_accuracy": null,
+        "gps_speed": null,
+        "gps_course": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0577331499,
+          39.9257476981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fulcrum_id": "2ed17c35-2479-4249-9e30-b510007c3370",
+        "created_at": "2015-06-16 17:46:03 UTC",
+        "updated_at": "2015-10-28 19:28:56 UTC",
+        "created_by": "mnadas@brwncald.com",
+        "updated_by": "rharris@brwncald.com",
+        "system_created_at": "2015-06-16 17:46:03 UTC",
+        "system_updated_at": "2015-10-28 19:28:42 UTC",
+        "version": 7,
+        "status": "",
+        "project": null,
+        "assigned_to": null,
+        "latitude": 39.9210644564,
+        "longitude": -83.0511727946,
+        "manhole_id": "MRD-MH-0020",
+        "gps_altitude": 0,
+        "gps_horizontal_accuracy": 0,
+        "gps_vertical_accuracy": null,
+        "gps_speed": null,
+        "gps_course": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0511727946,
+          39.9210644564
+        ]
+      }
+    }
+  ]
+}
